@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\ProjectOne\main.cpp(291,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\ProjectOne\main.cpp(405,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\ProjectOne\main.cpp(406,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\ProjectOne\main.cpp(410,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\ProjectOne\main.cpp(411,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\ProjectOne\main.cpp(413,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\ProjectOne\main.cpp(414,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\ProjectOne\main.cpp(424,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ProjectOne.vcxproj -> C:\Users\chris\Desktop\OpenGL_projects\ProjectOne\Debug\ProjectOne.exe
